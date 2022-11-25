@@ -42,11 +42,6 @@ def main():
 		st.success(result)
 
 
-	st.header('Identify type of CyberSecurity Attack Using the difference of features (from the DATASET)')
-	st.image('img1.png')
-	st.image('img2.png')
-	st.image('img3.png')
-	st.image('img4.png')
-
+	
 if __name__ == '__main__':
     main()
